@@ -1,12 +1,12 @@
 1. Create Trial Account
 2. Create Databricks workspace
-	West Europe
-	Trial (Premium 14 days)
+	- West Europe
+	- Trial (Premium 14 days)
 
 3. Log in to ADB workspace
-	-Create Cluster
-		1 Driver 
-		0 Workers
+	- Create Cluster
+	- 1 Driver 
+	- 0 Workers
 
 4. Attach the following libraries to CLuster:
 	- azureml-train[databricks]==0.1.74
